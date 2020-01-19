@@ -1,4 +1,4 @@
-# BME280 sensor API
+# Sir BME280 Sensor
 ## Introduction
 This package contains the Bosch Sensortec's BME280 pressure sensor driver (sensor API)
 
